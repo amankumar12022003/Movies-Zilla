@@ -1,5 +1,5 @@
-🎬 MovieMod – Movie Streaming Website
-MovieMod is a frontend movie streaming web app.
+🎬 MovieZilla – Movie Streaming Website
+MovieZilla is a frontend movie streaming web app.
 It lets users browse, search, and watch movie trailers in a clean and responsive interface.
 
 🚀 Features
@@ -26,7 +26,7 @@ TMDb API (optional) – For fetching movie details and posters
 
 📦 Installation & Usage
 1. Clone the repository
-- git clone https://github.com/amankumar12022003/MoviesMod
+- git clone https://github.com/amankumar12022003/Movies-Zilla
 - cd moviemod
 2. Open the project
 - Simply open index.html in your browser — no backend required.
